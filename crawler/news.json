@@ -1,0 +1,74 @@
+{
+  "newsItems":[
+      {
+        "id": "1",
+        "title": "Gritty Cummins makes India wait for victory",
+        "desc":"Australia 151 and 8 for 258 (Cummins 61*, Jadeja 3-82, Bumrah 2-53) need 141 more to beat India 7 for 443 dec. and 8 for 106 dec. (Agarwal 42, Cummins 6-27)",
+        "srcUrl":"http://www.espncricinfo.com/series/18693/report/1144995/day/4/australia-vs-india-3rd-test-india-in-aus-2018-19",
+        "imageUrl":"https://a1.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1170227_365x205.jpg&w=267"
+      },
+      {
+        "id": "2",
+        "title": "Australia slip well behind India in old-ball duel",
+        "desc":"When India took the new ball late on day four at the MCG, they hoped to end the Test match before an extended close. That Pat Cummins and Nathan Lyon not only survived it but scored freely spoke to a wider truth about this series, that is being won by India as much for what their fast bowlers are doing with the old ball as what Australia's pacemen are not.",
+        "srcUrl":"http://www.espncricinfo.com/story/_/id/25637172/australia-slip-well-india-old-ball-duel",
+        "imageUrl":"https://a2.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1170210_900x506.jpg&w=570"
+      },
+      {
+        "id": "3",
+        "title": "‘Aquaman,’ ‘Mary Poppins Returns’ Power Year-End North American Box Office",
+        "desc":"Powerful holdovers “Aquaman” and “Mary Poppins Returns” are leading the way as the 2018 domestic box office finishes the year on a record-setting note.",
+        "srcUrl":"https://www.imdb.com/news/ni62324811?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=73ff69c3-cf0f-4468-ab90-5a2ea2639a0b&pf_rd_r=44RERXQN7BN3Z71ZECFZ&pf_rd_s=center-6&pf_rd_t=15061&pf_rd_i=homepage&ref_=hm_nw_tp1",
+        "imageUrl":"https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_SY150_CR0,0,100,150_AL_.jpg"
+      },
+      {
+        "id": "4",
+        "title": "‘Bird Box’ Viewed by 45 Million Netflix Members in First Week, Company Says",
+        "desc":"Netflix’s frightening thriller “Bird Box” scored the biggest seven-day viewership of all the streamer’s original movie releases to date — with just over 45 million member accounts having watched the movie in the first week, the company claimed Friday.     ",
+        "srcUrl":"https://www.imdb.com/news/ni62324444?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=73ff69c3-cf0f-4468-ab90-5a2ea2639a0b&pf_rd_r=44RERXQN7BN3Z71ZECFZ&pf_rd_s=center-6&pf_rd_t=15061&pf_rd_i=homepage&ref_=hm_nw_tp4",
+        "imageUrl":"https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_SY150_CR0,0,100,150_AL_.jpg"
+      },
+      {
+        "id": "5",
+        "title": "Vice Movie Review",
+        "desc":"Critics Consensus: Vice takes scattershot aim at its targets, but writer-director Adam McKay hits some satisfying bullseyes -- and Christian Bale's transformation is a sight to behold.",
+        "srcUrl":"https://www.rottentomatoes.com/m/vice_2018",
+        "imageUrl":"https://resizing.flixster.com/GYJUcfYfseN03iNyT0YGeq9NAq8=/206x305/v1.bTsxMjg3NTMwNjtqOzE3OTI0OzEyMDA7MTMxMjsyMDQ4"
+      },
+      {
+        "id": "6",
+        "title": "Gritty Cummins",
+        "desc":"Australia 151 and 8 for 258 (Cummins 61*, Jadeja 3-82, Bumrah 2-53) need 141 more to beat India 7 for 443 dec. and 8 for 106 dec. (Agarwal 42, Cummins 6-27)",
+        "srcUrl":"http://www.espncricinfo.com/series/18693/report/1144995/day/4/australia-vs-india-3rd-test-india-in-aus-2018-19",
+        "imageUrl":"https://a1.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1170227_365x205.jpg&w=267"
+      },
+      {
+        "id": "7",
+        "title": "Australia slip ",
+        "desc":"When India took the new ball late on day four at the MCG, they hoped to end the Test match before an extended close. That Pat Cummins and Nathan Lyon not only survived it but scored freely spoke to a wider truth about this series, that is being won by India as much for what their fast bowlers are doing with the old ball as what Australia's pacemen are not.",
+        "srcUrl":"http://www.espncricinfo.com/story/_/id/25637172/australia-slip-well-india-old-ball-duel",
+        "imageUrl":"https://a2.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1170210_900x506.jpg&w=570"
+      },
+      {
+        "id": "8",
+        "title": "‘Aquaman,’ ‘Mary Poppins Returns’ ",
+        "desc":"Powerful holdovers “Aquaman” and “Mary Poppins Returns” are leading the way as the 2018 domestic box office finishes the year on a record-setting note.",
+        "srcUrl":"https://www.imdb.com/news/ni62324811?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=73ff69c3-cf0f-4468-ab90-5a2ea2639a0b&pf_rd_r=44RERXQN7BN3Z71ZECFZ&pf_rd_s=center-6&pf_rd_t=15061&pf_rd_i=homepage&ref_=hm_nw_tp1",
+        "imageUrl":"https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_SY150_CR0,0,100,150_AL_.jpg"
+      },
+      {
+        "id": "9",
+        "title": "‘Bird Box’ ",
+        "desc":"Netflix’s frightening thriller “Bird Box” scored the biggest seven-day viewership of all the streamer’s original movie releases to date — with just over 45 million member accounts having watched the movie in the first week, the company claimed Friday.     ",
+        "srcUrl":"https://www.imdb.com/news/ni62324444?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=73ff69c3-cf0f-4468-ab90-5a2ea2639a0b&pf_rd_r=44RERXQN7BN3Z71ZECFZ&pf_rd_s=center-6&pf_rd_t=15061&pf_rd_i=homepage&ref_=hm_nw_tp4",
+        "imageUrl":"https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_SY150_CR0,0,100,150_AL_.jpg"
+      },
+      {
+        "id": "10",
+        "title": "Vice ",
+        "desc":"Critics Consensus: Vice takes scattershot aim at its targets, but writer-director Adam McKay hits some satisfying bullseyes -- and Christian Bale's transformation is a sight to behold.",
+        "srcUrl":"https://www.rottentomatoes.com/m/vice_2018",
+        "imageUrl":"https://resizing.flixster.com/GYJUcfYfseN03iNyT0YGeq9NAq8=/206x305/v1.bTsxMjg3NTMwNjtqOzE3OTI0OzEyMDA7MTMxMjsyMDQ4"
+      }
+  ] 
+}
